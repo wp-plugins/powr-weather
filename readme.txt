@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: weather forecast, weather report, forecast, weather, weather widget, weather plugin, weather jquery, weather forecast widget, weather forecast plugin, weather app, weather forecast app
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
