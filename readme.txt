@@ -2,9 +2,9 @@
 ===POWr Weather===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: animated weather, yahoo weather, weather channel, weather network, local weather, accuweather, local weather, 7 day weather forecast, weather forecast, weather report, forecast, weather, weather widget, weather plugin, weather jquery, weather forecast widget, weather forecast plugin, weather app, weather forecast app, free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, celsius, clouds, sunny, rain, snow, fahrenheit, geo-location, any city, NY weather, SF weather, london weather, shortcode, weather map, weather site, prediction, weather by location, kelvin
+Tags: animated weather, yahoo weather, weather channel, weather network, local weather, accuweather, local weather, 7 day weather forecast, weather forecast, weather report, forecast, weather, weather widget, weather plugin, weather jquery, weather forecast widget, weather forecast plugin, weather app, weather forecast app, free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, celsius, clouds, sunny, rain, snow, fahrenheit, geo-location, any city, NY weather, SF weather, london weather, shortcode, weather map, weather site, prediction, weather by location, kelvin, powr
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,7 +26,7 @@ To use Weather, download and install the plugin, then add to your site as a widg
 * Track and display live weather forecasts for any location.
 * Customize fonts, colors, backgrounds, and more.
 * Monitor humidity, wind speed and direction, cloud cover, and daily highs/lows.
-* Choose to display current, hourly, daily, or 7-day forecasts. 
+* Choose to display current, hourly, or daily forecasts.
 * Allow your users to get weather for their location.
 * Mobile responsive design looks great on any device.
 <br>
