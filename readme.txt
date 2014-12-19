@@ -83,6 +83,9 @@ First released version.
 = 1.1 =
 Improved SSL Support
 
+= 1.2 =
+Improved loading speed
+
 
 
 == Changelog ==
@@ -91,5 +94,8 @@ Improved SSL Support
 
 = 1.1 =
 * Improved SSL Support
+
+= 1.2 =
+* Improved loading speed
 
 
