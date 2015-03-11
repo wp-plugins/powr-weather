@@ -22,7 +22,6 @@ First, download, install, and activate POWr Weather. Then drop the widget anywhe
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-weather-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Track and display live weather forecasts for any location.
 * Customize fonts, colors, backgrounds, and more.
@@ -34,8 +33,10 @@ First, download, install, and activate POWr Weather. Then drop the widget anywhe
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Advanced Forecast Display - set forecast display range from 1 hour up to 7 days.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Weather.
