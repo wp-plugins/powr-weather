@@ -38,6 +38,7 @@ First, download, install, and activate POWr Weather. Then drop the widget anywhe
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Weather.
 <br>
