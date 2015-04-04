@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Track and display a real-time forecast for any location!
 
 == Description ==
-Track and display a real-time forecast for any location!
+[youtube https://youtu.be/iMTp0I8cSXQ] Track and display a real-time forecast for any location!
 <br>
 <br>
 POWr Weather is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
