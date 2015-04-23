@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: animated weather, yahoo weather, weather channel, weather network, local weather, accuweather, local weather, 7 day weather forecast, weather forecast, weather report, forecast, weather, weather widget, weather plugin, weather jquery, weather forecast widget, weather forecast plugin, weather app, weather forecast app, free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, celsius, clouds, sunny, rain, snow, fahrenheit, geo-location, any city, NY weather, SF weather, london weather, shortcode, weather map, weather site, prediction, weather by location, kelvin, powr
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,7 @@ First, download, install, and activate POWr Weather. Then drop the widget anywhe
 * Allow your users to get weather for their location.
 * Mobile responsive design looks great on any device.
 <br>
+
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Advanced Forecast Display - set forecast display range from 1 hour up to 7 days.
