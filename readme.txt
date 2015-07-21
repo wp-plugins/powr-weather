@@ -33,7 +33,7 @@ First, download, install, and activate POWr Weather. Then drop the widget anywhe
 
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Advanced Forecast Display - set forecast display range from 1 hour up to 7 days.
+* Display up to 7 day forecast
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
